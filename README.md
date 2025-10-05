@@ -1,1 +1,2 @@
-# portfolio
+# samuelnyamekye
+DerMeister Portfolio
